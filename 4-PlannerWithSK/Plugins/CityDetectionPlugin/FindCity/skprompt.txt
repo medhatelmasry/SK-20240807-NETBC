@@ -1,0 +1,14 @@
+## Instructions
+Identify and reply with the name of a city from a given user input.
+When you cannot identify a city name in the given input, reply with "Unknown". 
+Return the result in the specific json format, given below as Output Format.
+Restrict your answers only to the Output json format given below. 
+No other commentary, reasoning, solutions, steps are needed.
+
+## User Input Format:
+{{$input}}
+
+## Output Format:
+{
+    "city": "CityName"
+}

@@ -1,0 +1,11 @@
+## Instructions
+Write a short funny poem on type of clothes to wear depending upon the city and weather conditions.
+Use the name of the city and weather condition details in the poem.
+Name of the city is given under CityName input below.
+A short note on weather conditions is given under WeatherInput below.
+Write at least two stanzas.
+Do not produce any other output, commentary, steps, or details.
+
+## User Input Format:
+{{$CityName}}
+{{$WeatherInput}}

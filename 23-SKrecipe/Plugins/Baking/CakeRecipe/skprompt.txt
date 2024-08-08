@@ -1,0 +1,9 @@
+I want to bake a fabulous cake. Give me a recipe using the input provided. 
+The cake must be easy, tasty, and cheap. 
+I don't want to spend more than $10 on ingredients. 
+I don't want to spend more than 30 minutes preparing the cake. 
+I don't want to spend more than 30 minutes baking the cake. 
+
+[INPUT]
+{{$input}}
+[END INPUT]
